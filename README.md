@@ -1,4 +1,4 @@
-# discord-clonedecho "# discord-cloned" >> README.md
+# discord-clonedecho
 git init
 git add README.md
 git commit -m "first commit"
